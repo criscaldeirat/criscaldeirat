@@ -64,4 +64,3 @@ I am a Web Developer with high knowledge of React.js and PostgreSQL. The best pa
 
 <a href="http://www.github.com/criscaldeirat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=criscaldeirat&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/criscaldeirat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=criscaldeirat&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
