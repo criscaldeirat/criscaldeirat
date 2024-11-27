@@ -1,11 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristina Teixeira
 =========================================================================================================================================
 
-Web Developer
--------------
-
-I am a Web Developer with high knowledge of React.js and PostgreSQL. The best part of this job is developing impactful solutions or writing code that makes developers' lives easier and the web app more optimized for users. I am adept at continuous learning and improvement.
-
 * 🌍  I'm based in Madeira, Portugal
 * 🎓  I'm an Informatics Engineering student at [Universidade Aberta](https://portal.uab.pt/licenciatura-em-engenharia-informatica/) (it's like Computer Science)
 * 🚀  I'm currently working on [crwn-clothing](http://ecommerce-store-crwn.netlify.app)
