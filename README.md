@@ -1,14 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristina Teixeira
 =========================================================================================================================================
 
-* 🌍  I'm based in Madeira, Portugal
-* 🎓  I'm an Informatics Engineering student at [Universidade Aberta](https://portal.uab.pt/licenciatura-em-engenharia-informatica/) (it's like Computer Science)
-* 🚀  I'm currently working on [crwn-clothing](http://ecommerce-store-crwn.netlify.app)
-* 🧠  I'm learning Data Structures and Algorithms with [Zero To Mastery](https://zerotomastery.io/courses/learn-data-structures-and-algorithms/)
-* 👩‍💻  I'm also going throw [CS50](https://cs50.harvard.edu/x/2024/) from Harvard University
+* 🌍  Based in Madeira, Portugal
+* 🎓  Informatics Engineering student at [Universidade Aberta](https://portal.uab.pt/licenciatura-em-engenharia-informatica/) (it's like Computer Science)
+* 👩‍💻  Aiming to complete [CS50](https://cs50.harvard.edu/x/2025/) from Harvard University
 * 🖥️  Here on GitHub you can find all the amazing things I have done until now
 * ✉️  You can contact me at [criscaldeirat@gmail.com](mailto:criscaldeirat@gmail.com)
-* ⚡  I am a simple person, who loves football(but plays federated futsal) and hitting the gym. I also spend my days reading, playing piano(or trying), or doing snorkeling...
+* ⚡  I am someone who plays futsal at a local club, and whistle futsal matches.
 
 
 ### Skills
