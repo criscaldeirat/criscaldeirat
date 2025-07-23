@@ -1,13 +1,22 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Cristina Teixeira
-=========================================================================================================================================
+<h1 align="center">👋 Hey there, I'm Cris Caldeira</h1>
 
-* 🌍  Based in Madeira, Portugal
-* 🎓  Informatics Engineering student at [Universidade Aberta](https://portal.uab.pt/licenciatura-em-engenharia-informatica/) (it's like Computer Science)
-* 👩‍💻  Aiming to complete [CS50](https://cs50.harvard.edu/x/2025/) from Harvard University
-* 🖥️  Here on GitHub you can find all the amazing things I have done until now
-* ✉️  You can contact me at [criscaldeirat@gmail.com](mailto:criscaldeirat@gmail.com)
-* ⚡  I am someone who plays futsal at a local club, and whistle futsal matches.
+<p align="center">
+  <strong>Aspiring Cybersecurity Engineer</strong><br/>
+  Junior Developer | Web Security | AI & Threat Detection Enthusiast
+</p>
 
+---
+
+### 🚀 About Me
+
+I'm a self-driven developer transitioning into the world of **Cybersecurity**.  
+With a solid foundation in **web development (React, Next.js, Node.js, SQL)** and programming in **C and Java**, I’m now focusing on:
+- Web Application Security (OWASP Top 10)
+- Scripting & automation for security tasks
+- Linux fundamentals and networking
+- Security in AI systems (prompt injection, model attacks, etc.)
+
+🎯 **Goal**: Land my first professional role in cybersecurity within 6 months.
 
 ### Skills
 
