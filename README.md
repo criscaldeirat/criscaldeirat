@@ -62,5 +62,5 @@ With a solid foundation in **web development (React, Next.js, Node.js, SQL)** an
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/criscaldeirat"><img src="https://github-readme-streak-stats.herokuapp.com/?user=criscaldeirat&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=criscaldeirat&theme=dark&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
